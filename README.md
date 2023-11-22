@@ -116,6 +116,11 @@ Project managers can set the tone for a project and build relationships within t
 When you build teams, each person is generally assigned specific project tasks. Once each task is done, the person responsible for that task hands that part of the project over to the next person. Your team members don’t always see the whole picture and how they impact others in a project. A successful project manager sees the impacts of each process within the project and communicates those impacts to the team. This ensures that everyone working on the project understands their task goal as well as the big picture goal for the finished product. For example, if a graphic designer working on marketing materials for your project doesn't understand the customer’s overall goal to appeal to educators, they may not be able to fully capture the vision for the campaign. Helping this team member understand the big picture allows them to tailor their tasks to meet the needs of the project end goal.
 
 Managing a project can be busy, but if you take the time to build relationships and maintain open lines of communication, you will increase the chances of the project’s success as well as the customer’s and your team members’ satisfaction. 
+# Project lifecycle
+1. Initiate the project
+2. Make a plan
+3. Execute and complete tasks
+4. Close the project
 # Breaking down barriers
 Sometimes, when you ask why something is being done a certain way, the response you get is, “Because we’ve always done it this way.” A project manager adds value to a project when they break down barriers, allow their team to innovate new ways to do things, and empower them to share ideas. As a project manager, you have to model ingenuity and collaboration, and encourage your team to do the same.
 
