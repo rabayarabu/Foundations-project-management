@@ -117,10 +117,14 @@ When you build teams, each person is generally assigned specific project tasks. 
 
 Managing a project can be busy, but if you take the time to build relationships and maintain open lines of communication, you will increase the chances of the project’s success as well as the customer’s and your team members’ satisfaction. 
 # Project lifecycle
-1. Initiate the project
-2. Make a plan
-3. Execute and complete tasks
-4. Close the project
+# 1. Initiate the project
+This is the phase Jason rushed through in the first scenario. Ideally, in this phase, Jason discusses project goals with Flight Simulators, Inc. to gain a clear understanding of what they are asking for. Once Jason has defined the project goals, he can gather the stakeholders and project team members to define what needs to be done to successfully create this training for Flight Simulators, Inc. Jason identifies the skill sets required, the timeline, and the cost to develop the training. He identifies and documents the value that this project creates for the company. He presents all of the information he has put together to his company’s leadership team, who approves Jason’s proposal. Jason then submits the proposal to Flight Simulators, Inc., and they accept it. 
+# 2. Make a plan
+Now that Jason has the green light to work on the project, he makes a project plan to get from start to finish. Having a plan in place ensures that all team members and stakeholders are prepared to complete their tasks. Jason outlines the important deadlines and tasks for the project to be successful. He creates a schedule to account for all resources, materials, and tasks needed to complete the project.
+# 3. Execute and complete tasks
+During this project phase, Jason’s project team puts his plan in motion by executing the work. Jason monitors his team as they complete project tasks. His role as the project manager is not to complete the individual tasks but to help break down any barriers that would slow or stop the team from completing their tasks. It is also Jason’s responsibility to communicate schedule and quality expectations. Jason uses his communication skills to keep Flight Simulators, Inc. up to date on the project status and gather feedback from them. This keeps the project on schedule and within budget.
+# 4. Close the project
+Jason’s team has successfully completed the training, and he delivers it to Flight Simulators, Inc. They are very pleased with how it turned out! Jason is now ready to close this project and move on to the next one. Before he closes this chapter, Jason and his team discuss and document the lessons learned from the project. What worked well, and what could work better next time? Jason also puts together a small lunch gathering for his team to celebrate and recognize their hard work. 
 # Breaking down barriers
 Sometimes, when you ask why something is being done a certain way, the response you get is, “Because we’ve always done it this way.” A project manager adds value to a project when they break down barriers, allow their team to innovate new ways to do things, and empower them to share ideas. As a project manager, you have to model ingenuity and collaboration, and encourage your team to do the same.
 
