@@ -118,7 +118,7 @@ When you build teams, each person is generally assigned specific project tasks. 
 Managing a project can be busy, but if you take the time to build relationships and maintain open lines of communication, you will increase the chances of the project’s success as well as the customer’s and your team members’ satisfaction. 
 # Project lifecycle
 # 1. Initiate the project
-This is the phase Jason rushed through in the first scenario. Ideally, in this phase, Jason discusses project goals with Flight Simulators, Inc. to gain a clear understanding of what they are asking for. Once Jason has defined the project goals, he can gather the stakeholders and project team members to define what needs to be done to successfully create this training for Flight Simulators, Inc. Jason identifies the skill sets required, the timeline, and the cost to develop the training. He identifies and documents the value that this project creates for the company. He presents all of the information he has put together to his company’s leadership team, who approves Jason’s proposal. Jason then submits the proposal to Flight Simulators, Inc., and they accept it. 
+This is the phase Jason rushed through in the first scenario. Ideally, in this phase, Jason discusses project goals with Flight Simulators, Inc. to gain a clear understanding of what they are asking for. Once Jason has defined the project goals, he can gather the stakeholders and project team members to define what needs to be done to successfully create this training for Flight Simulators, Inc. Jason identifies the skill sets required, the timeline, and the cost to develop the training. He identifies and documents the value that this project creates for the company. He presents all of the information he has put together to his company’s leadership team, who approves Jason’s proposal. Jason then submits the proposal to Flight Simulators, Inc., and they accepted it. 
 # 2. Make a plan
 Now that Jason has the green light to work on the project, he makes a project plan to get from start to finish. Having a plan in place ensures that all team members and stakeholders are prepared to complete their tasks. Jason outlines the important deadlines and tasks for the project to be successful. He creates a schedule to account for all resources, materials, and tasks needed to complete the project.
 # 3. Execute and complete tasks
@@ -226,4 +226,12 @@ With so many methodologies available, there are many options that would work wel
 
 Choosing an approach that works best for the project, the organization, and the team takes time and practice. You’ll learn more about how to choose a project management approach throughout this certificate program. In the meantime, take a look at how this article breaks down common methodologies and when (or when not) to use them: 
 Which project management methodologies should you use?
+
+# A project manager's role within different organizational structures
+you learned about the way a company is arranged, which is called organizational structure. You also learned that two of the most common organizational structures are Classic and Matrix. 
+
+Understanding the differences in Classic and Matrix organizational structures can help you ask questions during a job interview to fully understand the role and responsibilities you are considering. This will also help you understand which skills will be most important for you to have if you get the position. 
+
+Once you are hired into a role, knowing a company’s organizational structure can help you identify key points of communication and key stakeholders. It can also help you navigate within the organization when you need support or need to determine who has authority in a certain situation. Let’s examine the characteristics of each of these organizational structures in greater depth so you can identify the type of structure an organization has and how to navigate it as a project manager. 
+## Classic organizational structures
 
